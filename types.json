@@ -4,7 +4,7 @@
     "name": "Electric",
     "strengthAgainst": ["Water", "Flying"],
     "weaknessAgainst": ["Ground"],
-    "imageUrl": "electric.png",
+    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset-webontwikkeling-2025/refs/heads/main/images/electric.png",
     "description": "Electric type Pokémon generate electricity and can shock their opponents."
   },
   {
@@ -12,7 +12,7 @@
     "name": "Fire",
     "strengthAgainst": ["Grass", "Ice", "Bug", "Steel"],
     "weaknessAgainst": ["Water", "Rock", "Ground"],
-    "imageUrl": "fire.png",
+    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset-webontwikkeling-2025/refs/heads/main/images/fire.png",
     "description": "Fire type Pokémon have powerful fire attacks that can burn their opponents."
   },
   {
@@ -20,7 +20,7 @@
     "name": "Grass",
     "strengthAgainst": ["Water", "Ground", "Rock"],
     "weaknessAgainst": ["Fire", "Ice", "Poison", "Flying", "Bug"],
-    "imageUrl": "grass.png",
+    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset-webontwikkeling-2025/refs/heads/main/images/grass.png",
     "description": "Grass type Pokémon use nature-based attacks to drain energy from opponents."
   },
   {
@@ -28,7 +28,7 @@
     "name": "Water",
     "strengthAgainst": ["Fire", "Ground", "Rock"],
     "weaknessAgainst": ["Electric", "Grass"],
-    "imageUrl": "water.png",
+    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset-webontwikkeling-2025/refs/heads/main/images/water.png",
     "description": "Water type Pokémon excel in aquatic attacks and can control water."
   },
   {
@@ -36,7 +36,7 @@
     "name": "Ghost",
     "strengthAgainst": ["Psychic", "Ghost"],
     "weaknessAgainst": ["Dark", "Ghost"],
-    "imageUrl": "ghost.png",
+    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset-webontwikkeling-2025/refs/heads/main/images/ghost.png",
     "description": "Ghost type Pokémon use supernatural powers to confuse and scare opponents."
   },
   {
@@ -44,7 +44,7 @@
     "name": "Rock",
     "strengthAgainst": ["Fire", "Ice", "Flying", "Bug"],
     "weaknessAgainst": ["Water", "Grass", "Fighting", "Ground", "Steel"],
-    "imageUrl": "rock.png",
+    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset-webontwikkeling-2025/refs/heads/main/images/rock.png",
     "description": "Rock type Pokémon are strong and resistant, often defending with rock-hard bodies."
   },
   {
@@ -52,7 +52,7 @@
     "name": "Psychic",
     "strengthAgainst": ["Fighting", "Poison"],
     "weaknessAgainst": ["Bug", "Ghost", "Dark"],
-    "imageUrl": "psychic.png",
+    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset-webontwikkeling-2025/refs/heads/main/images/psychic.png",
     "description": "Psychic type Pokémon use telekinesis and telepathy to battle."
   },
   {
@@ -60,7 +60,7 @@
     "name": "Normal",
     "strengthAgainst": [],
     "weaknessAgainst": ["Fighting"],
-    "imageUrl": "normal.png",
+    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset-webontwikkeling-2025/refs/heads/main/images/normal.png",
     "description": "Normal type Pokémon are versatile but lack specific type advantages."
   },
   {
@@ -68,7 +68,8 @@
     "name": "Fighting",
     "strengthAgainst": ["Normal", "Rock", "Steel", "Ice", "Dark"],
     "weaknessAgainst": ["Flying", "Psychic", "Fairy"],
-    "imageUrl": "fighting.png",
+    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset-webontwikkeling-2025/refs/heads/main/images/fighting.png",
     "description": "Fighting type Pokémon excel in physical combat and strength-based moves."
   }
 ]
+
