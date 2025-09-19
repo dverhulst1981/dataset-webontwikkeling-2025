@@ -6,7 +6,7 @@
     "age": 4,
     "isActive": true,
     "birthDate": "2016-07-01",
-    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset-webontwikkeling-2025/refs/heads/main/images/pikachu.exif",
+    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset-webontwikkeling-2025/refs/heads/main/images/pikachu.avif",
     "rarity": "Common",
     "abilities": ["Static", "Lightning Rod"],
     "typeid": "TYPE-001",
@@ -18,7 +18,7 @@
     "age": 6,
     "isActive": true,
     "birthDate": "2014-03-12",
-    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset-webontwikkeling-2025/refs/heads/main/images/charizard.exif",
+    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset-webontwikkeling-2025/refs/heads/main/images/charizard.avif",
     "rarity": "Rare",
     "abilities": ["Blaze", "Solar Power"],
     "typeid": "TYPE-002",
@@ -30,7 +30,7 @@
     "age": 3,
     "isActive": false,
     "birthDate": "2017-05-20",
-    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset-webontwikkeling-2025/refs/heads/main/images/bulbasaur.exif",
+    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset-webontwikkeling-2025/refs/heads/main/images/bulbasaur.avif",
     "rarity": "Common",
     "abilities": ["Overgrow", "Chlorophyll"],
     "typeid": "TYPE-003"
@@ -42,7 +42,7 @@
     "age": 4,
     "isActive": true,
     "birthDate": "2018-09-15",
-    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset-webontwikkeling-2025/refs/heads/main/images/squirtle.exif",
+    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset-webontwikkeling-2025/refs/heads/main/images/squirtle.avif",
     "rarity": "Common",
     "abilities": ["Torrent", "Rain Dish"],
     "typeid": "TYPE-004"
@@ -54,7 +54,7 @@
     "age": 8,
     "isActive": false,
     "birthDate": "2013-12-22",
-    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset-webontwikkeling-2025/refs/heads/main/images/gengar.exif",
+    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset-webontwikkeling-2025/refs/heads/main/images/gengar.avif",
     "rarity": "Epic",
     "abilities": ["Cursed Body"],
     "typeid": "TYPE-005"
@@ -66,7 +66,7 @@
     "age": 12,
     "isActive": true,
     "birthDate": "2010-02-08",
-    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset-webontwikkeling-2025/refs/heads/main/images/onix.exif",
+    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset-webontwikkeling-2025/refs/heads/main/images/onix.avif",
     "rarity": "Uncommon",
     "abilities": ["Rock Head", "Sturdy"],
     "typeid": "TYPE-006"
@@ -78,7 +78,7 @@
     "age": 15,
     "isActive": true,
     "birthDate": "2009-06-30",
-    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset-webontwikkeling-2025/refs/heads/main/images/alakazam.exif",
+    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset-webontwikkeling-2025/refs/heads/main/images/alakazam.avif",
     "rarity": "Rare",
     "abilities": ["Synchronize", "Inner Focus", "Magic Guard"],
     "typeid": "TYPE-007"
@@ -90,7 +90,7 @@
     "age": 20,
     "isActive": false,
     "birthDate": "2005-11-11",
-    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset-webontwikkeling-2025/refs/heads/main/images/snorlax.exif",
+    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset-webontwikkeling-2025/refs/heads/main/images/snorlax.avif",
     "rarity": "Uncommon",
     "abilities": ["Immunity", "Thick Fat", "Gluttony"],
     "typeid": "TYPE-008"
@@ -102,7 +102,7 @@
     "age": 10,
     "isActive": true,
     "birthDate": "2011-04-23",
-    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset-webontwikkeling-2025/refs/heads/main/images/machamp.exif",
+    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset-webontwikkeling-2025/refs/heads/main/images/machamp.avif",
     "rarity": "Rare",
     "abilities": ["Guts", "No Guard", "Steadfast"],
     "typeid": "TYPE-009"
@@ -114,10 +114,11 @@
     "age": 14,
     "isActive": true,
     "birthDate": "2012-08-18",
-    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset-webontwikkeling-2025/refs/heads/main/images/gyarados.exif",
+    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset-webontwikkeling-2025/refs/heads/main/images/gyarados.avif",
     "rarity": "Epic",
     "abilities": ["Intimidate", "Moxie"],
     "typeid": "TYPE-004"
   }
 ]
+
 
